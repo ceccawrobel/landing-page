@@ -15,6 +15,20 @@ h3 {
   float: right;
 }
 
+.well {
+  height: 500px;
+}
+
 .well img {
   float: right;
+  border-radius: 10px;
+  padding:5px;
+  margin: 5px;
 }
+/* 
+.well div.col-xs-6:last-of-type img {
+  float: left;
+  border-radius: 10px;
+  padding:5px;
+  margin: 5px;
+} */
