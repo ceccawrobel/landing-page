@@ -1,2 +1,3 @@
 # cecca is
-## an intro to cecca as coder
+### an intro to cecca as coder
+by cecca
