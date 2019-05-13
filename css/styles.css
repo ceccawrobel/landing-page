@@ -4,6 +4,7 @@
 
 h3 {
   font-family: serif;
+  text-align: center;
 }
 
 a {
@@ -18,7 +19,12 @@ li a {
   color:  #a569bd;
 }
 
-.subtitle {
+/* .subtitle {
+  font-family: serif;
+  float: right;
+} */
+
+.subtitle p {
   font-family: serif;
   float: right;
 }
