@@ -3,6 +3,7 @@
 ##### by cecca wrobel
 ---
 **description**
+
 This webpage was created for a first code review in the Epicodus part-time Intro to Programming course.
 
 It's pretty basic, and there are some elements I'm still unsatisfied with, including the size responsiveness of the grid and the reliability of the floats.
@@ -17,10 +18,12 @@ It's pretty basic, and there are some elements I'm still unsatisfied with, inclu
 
 ---
 **link**
+
 View the "[landing page](https://ceccawrobel.github.io/landing-page/)" on github pages
 
 ---
 **copyright**
+
 (c) cecca wrobel 2019*
 
 >*this is a pretend copyright. I don't actually know about copyrighting things.
