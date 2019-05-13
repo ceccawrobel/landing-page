@@ -6,6 +6,14 @@ h3 {
   font-family: serif;
 }
 
+a {
+  font-family: monospace;
+}
+
+li a {
+  font-weight: bold;
+}
+
 .cecca {
   color:  #a569bd;
 }
