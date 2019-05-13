@@ -19,7 +19,7 @@ It's pretty basic, and there are some elements I'm still unsatisfied with, inclu
 ---
 **link**
 
-View the "[landing page](https://ceccawrobel.github.io/landing-page/)" on github pages
+View "[cecca is](https://ceccawrobel.github.io/landing-page/)" on github pages
 
 ---
 **copyright**
